@@ -3,7 +3,7 @@ bl_info = {
     "author": "曲爸爸",
     "version": (2, 0),
     "blender": (3, 0, 0),
-    "location": "N面板，资产摄像机，隐藏的轴心到中心下方",
+    "location": "3D视图SHIFT+Q，权重视图SHIFT+A。两个饼菜单 ",
     "description": "各种工具",
     "warning": "",
     "doc_url": "",
